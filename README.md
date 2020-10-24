@@ -1,6 +1,6 @@
 # Chat Application
 
-created with React.js, Express.js and socket.io
+A simple chat appication created with React.js, Express.js and socket.io
 
 ## Backend deployed on Heroku
 
